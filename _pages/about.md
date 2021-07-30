@@ -11,6 +11,3 @@ header:
 
 _A part of the USDA ARS Genomics and Bioinformatics Research Unit
 
-### Research areas
-
-### Service areas:
