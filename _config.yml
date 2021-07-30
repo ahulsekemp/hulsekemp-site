@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "air" # ""default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "air" # "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -13,7 +13,7 @@ title                    : "Breeding Insight OnRamp"
 subtitle                 : "USDA-ARS Genomics and Bioinformatics Research Unit - Raleigh"
 title_separator          : "|"
 name                     : #"Amanda Hulse-Kemp"
-description              : #"TBD"
+description              : "Place Holder for a description"
 url                      : https://bionramp.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,9 +85,7 @@ analytics:
 author:
   name             : "Keo Corak, PhD"
   avatar           : "assets/images/Keo-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Computational biologist and microbial ecologist
-                        using microbiome data and machine learning to create
-                        safe, productive, and sustainable agricultural systems."
+  bio              : 
 
   location         : "Raleigh, NC"
   email            :
