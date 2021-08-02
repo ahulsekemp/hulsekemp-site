@@ -17,6 +17,8 @@ header:
 ## Amanda Hulse-Kemp - PI (SY)
 _PhD Texas A&M_
 
+Amanda M. Hulse-Kemp is a computational biologist with the United States Department of Agriculture – Agricultural Research Service. She works in the Genomics and Bioinformatics Research Unit and is stationed on the North Carolina State University campus in Raleigh, North Carolina.
+
 # Postdoctoral Associates
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
