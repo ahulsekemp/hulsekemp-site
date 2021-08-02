@@ -13,7 +13,7 @@ header:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}assets/images/Keo-1.jpg){: .align-left}
 ## Amanda Hulse-Kemp - PI (SY)
 _PhD Texas A&M_
 
@@ -21,13 +21,13 @@ Amanda M. Hulse-Kemp is a computational biologist with the United States Departm
 
 # Postdoctoral Associates
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}assets/images/Keo-1.jpg){: .align-left}
 ## Keo Corak, PhD
 _PhD University of Wisconsin, Madison  2020_
 
 Dr. Corak is a USDA/ORISE Postdoctoral Fellow for the USDA  SCINet Scientific
 computing initiative. 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}assets/images/Keo-1.jpg){: .align-left}
 
 ## Heather
 _PhD University of Delaware, 2020_
