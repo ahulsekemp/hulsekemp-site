@@ -256,7 +256,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
@@ -267,18 +267,18 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
  #_projects
   - scope:
       path: ""
       type: projects
     values:
       layout: single
-      author_profile: true
+      author_profile: false
  #_jobs
   - scope:
       path: ""
       type: jobs
     values:
       layout: single
-      author_profile: true
+      author_profile: false
