@@ -19,7 +19,7 @@ _PhD Texas A&M_
 
 # Postdoctoral Associates
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/KEC.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
 ## Keo Corak, PhD
 _PhD University of Wisconsin, Madison  2020_
 
