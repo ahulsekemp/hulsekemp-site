@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: 'Advancing agriculture through the application machine learning and microbiome science'
+excerpt: 'Announcing BI OnRamp! A new program that gets breeding teams ready to join Breeding Insight'
 header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/images/epi-wide.jpg
@@ -33,13 +33,7 @@ feature_row:
 
 ---
 
-Our research group is part of the US Department of Agriculture, Agricultural
-Research Service, Genomics and Bioinformatics Research Unit, a distributed
-unit with four locations in the Southeast Area. We are based out of Raleigh, North Carolina.
 
-GBRU-Gainesville works broadly in machine learning, software, and microbiome
-science across application domains. Thse applications include animal health, crop improvement,
-nutrition, and natural resource conservation.
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
