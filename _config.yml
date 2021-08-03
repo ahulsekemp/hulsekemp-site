@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "air" # "default" # "air", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Breeding Insight OnRamp"
+title                    : "The Hulse-Kemp Lab"
 subtitle                 : "USDA-ARS Genomics and Bioinformatics Research Unit - Raleigh"
 title_separator          : "|"
 name                     : "Amanda Hulse-Kemp"
-description              : "A new program that gets breeding teams ready to join Breeding Insight"
+description              : "catchy slogan here"
 url                      : https://usda-ars-gbru.github.io/bionramp/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
