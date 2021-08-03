@@ -10,8 +10,8 @@ main:
     url: /projects/
   - title: "Software"
     url: /software/
-  - title: "Training"
-    url: /training/
+  - title: "BI OnRamp"
+    url: /bionramp/
   - title: "Posts"
     url: /posts/
   - title: "Collaborate"
