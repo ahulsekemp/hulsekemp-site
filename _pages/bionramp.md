@@ -1,7 +1,7 @@
 ---
-title: "Training"
-excerpt: "Training organized by the group"
-permalink: /training/
+title: "BI OnRamp"
+excerpt: "Breeding Insight OnRamp"
+permalink: /bionramp/
 layout: single
 author_profile: false
 header:
