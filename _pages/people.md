@@ -27,10 +27,9 @@ _PhD University of Wisconsin, Madison  2020_
 
 Dr. Corak is a USDA/ORISE Postdoctoral Fellow for the USDA  SCINet Scientific
 computing initiative. 
-![image-left]({{ site.url }}{{ site.baseurl }}assets/images/Keo-1.jpg){: .align-left}
 
-## Heather
-_PhD University of Delaware, 2020_
+
+
 
 
 
