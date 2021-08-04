@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: 'Announcing BI OnRamp! A new program that gets breeding teams ready to join Breeding Insight'
+excerpt: 'tagline goes here'
 header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/images/epi-wide.jpg
