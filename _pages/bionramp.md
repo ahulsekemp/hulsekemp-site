@@ -1,6 +1,6 @@
 ---
 title: "BI OnRamp"
-excerpt: "Breeding Insight OnRamp"
+excerpt: "Announcing Breeding Insight OnRamp! A new program that gets breeding teams ready to join Breeding Insight"
 permalink: /bionramp/
 layout: single
 author_profile: false
