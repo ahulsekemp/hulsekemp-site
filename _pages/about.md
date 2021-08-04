@@ -1,5 +1,5 @@
 ---
-title: "About Breeding Insight OnRamp"
+title: "About the Hulse-Kemp Lab"
 excerpt: " "
 permalink: /about/
 layout: single
