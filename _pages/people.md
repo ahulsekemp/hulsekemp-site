@@ -13,7 +13,7 @@ header:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/AHK.jpeg){: .align-left}
 ## Amanda Hulse-Kemp - PI (SY)
 _PhD Texas A&M_
 
@@ -37,7 +37,7 @@ Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. i
 
 # Graduate Students 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Grant-Billings.jpg){: .align-left}
 ## Grant Billings, MS
 _MS, Clemson University_
 
