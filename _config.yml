@@ -14,7 +14,7 @@ subtitle                 : "USDA-ARS Genomics and Bioinformatics Research Unit -
 title_separator          : "|"
 name                     : "Amanda Hulse-Kemp"
 description              : "catchy slogan here"
-url                      : https://usda-ars-gbru.github.io/bionramp/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://usda-ars-gbru.github.io/hulsekemp-site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/nersc300-500.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
