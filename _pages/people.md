@@ -13,7 +13,7 @@ header:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/AHK.jpeg){: .align-left}
+![image-left]({{ site.url }}/assets/images/AHK.jpeg){: .align-left}
 ## Amanda Hulse-Kemp - PI (SY)
 _PhD - Texas A&M_
 
