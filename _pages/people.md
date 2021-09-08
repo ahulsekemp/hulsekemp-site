@@ -13,7 +13,7 @@ header:
 ---
 
 
-![image-left]({{ site.url }}/assets/images/AHK.jpeg){: .align-left}
+![image-left]({{ site.url }}/assets/images/AHK.jpg){: .align-left}
 ## Amanda Hulse-Kemp - PI (SY)
 _PhD - Texas A&M_
 
@@ -21,13 +21,13 @@ Amanda M. Hulse-Kemp is a computational biologist with the United States Departm
 
 # Postdoctoral Associates
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/XX.jpg){: .align-left}
+![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
 ## Daniel Restrepo-Montoya, PhD
 _PhD - North Dakota State University; MEng, BS - Universidad Nacional de Colombia - Bogotá, Col_
 
 Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. in Genomics and Bioinformatics. A former fellow of the Fulbright program, he has knowledge and expertise in the analysis and handling of biological data through the application of mathematical and informatics tools and experience working with research groups that specialize in different biological problems
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/XX.jpg){: .align-left}
+![image-left]({{ site.url }}/assets/images/Emily_photo.jpg){: .align-left}
 ## Emily Delorean, PhD
 Emily is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010930&HistoricalAwards=false) in Amanda’s lab. In collaboration with Will Rutter (USDA-ARS), they are leveraging de novo genome assemblies to study the genetic basis of the root-knot nematode virulence on chili peppers and correspondingly, the genetic resistance of chili peppers against root-knot nematodes. The goal of the work is to help us breed chili pepper varieties with durable genetic resistance to root-knot nematodes. Emily likes teaching, talking about science over beer or cupcakes, and kittens.
 
@@ -42,7 +42,7 @@ computing initiative.
 # Graduate Students 
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/XX.jpg){: .align-left}
+![image-left]({{ site.url }}/assets/images/Ashley Headshot.jpg){: .align-left}
 ## Ashley Schoonmaker
 Ashley is a Bioinformatics PhD student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
 
