@@ -47,7 +47,7 @@ computing initiative.
 Ashley is a Bioinformatics PhD student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Grant-Billings.jpg){: .align-left}
+![image-left]({{ site.url }}/assets/images/Grant-Billings.jpg){: .align-left}
 ## Grant Billings, MS
 _MS - Clemson University; BS - Michigan State University_
 
