@@ -24,7 +24,9 @@ Amanda M. Hulse-Kemp is a computational biologist with the United States Departm
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/XX.jpg){: .align-left}
 ## Daniel Restrepo-Montoya, PhD
 _PhD, North Dakota State University_
+
 _ME, Universidad Nacional de Colombia - Bogotá, Col._
+
 _BS, Pontificia Universidad Javeriana- Bogotá, Col._
 
 Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. in Genomics and Bioinformatics. A former fellow of the Fulbright program, he has knowledge and expertise in the analysis and handling of biological data through the application of mathematical and informatics tools and experience working with research groups that specialize in different biological problems
@@ -33,10 +35,12 @@ Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. i
 ## Emily Delorean, PhD
 Emily is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010930&HistoricalAwards=false) in Amanda’s lab. In collaboration with Will Rutter (USDA-ARS), they are leveraging de novo genome assemblies to study the genetic basis of the root-knot nematode virulence on chili peppers and correspondingly, the genetic resistance of chili peppers against root-knot nematodes. The goal of the work is to help us breed chili pepper varieties with durable genetic resistance to root-knot nematodes. Emily likes teaching, talking about science over beer or cupcakes, and kittens.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Keo-1.jpg){: .align-left}
+![image-left](https://usda-ars-gbru.github.io/hulsekemp-site/assets/images/Keo-1.jpg){: .align-left}
 ## Keo Corak, PhD
 _PhD, University of Wisconsin, Madison_
+
 _MS, University of Wisconsin, Madison_
+
 _BA, Macalester College_
 
 Keo is a USDA/ORISE Postdoctoral Fellow for the USDA  SCINet Scientific
