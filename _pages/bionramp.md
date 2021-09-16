@@ -7,7 +7,7 @@ author_profile: false
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.3"
-  overlay_image:  /assets/images/_BIO-Icon-01.jpg
+  overlay_image:  /assets/images/BI-OnRamp-Horizontal-1500px.jpg
   caption: ""
 
 ---
