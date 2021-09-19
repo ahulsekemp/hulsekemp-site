@@ -24,12 +24,11 @@ _Sugarcane_
 ![image-left]({{ site.url }}/assets/images/sugarcane.jpeg){: .align-left}
 
 _Citrus_
-#![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
 
 _Cotton_
-#![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
+
 
 _Soybean_
-#![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
+
 
 
