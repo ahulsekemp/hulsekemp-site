@@ -12,4 +12,24 @@ header:
 
 ---
 
-Announcing Breeding Insight OnRamp! A new program that gets breeding teams ready to join Breeding Insight
+Announcing Breeding Insight OnRamp --  A new USDA-ARS initiative that gets breeding teams ready to join [Breeding Insight](https://breedinginsight.org/)!
+
+BI OnRamp is a readiness program that helps organize breeders, create common traits and methods, and curate historical data so that when programs enter Breeding Insight, they are prepared to benefit from the services immediately.  A 1-to-2-year commitment is needed, plus commodity financial support.
+
+Contact Us! (Contact Form?)
+
+## Species We Support 
+
+_Sugarcane_
+![image-left]({{ site.url }}/assets/images/sugarcane.jpeg){: .align-left}
+
+_Citrus_
+#![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
+
+_Cotton_
+#![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
+
+_Soybean_
+#![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
+
+
