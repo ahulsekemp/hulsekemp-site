@@ -35,8 +35,7 @@ Emily is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?A
 ## Keo Corak, PhD
 _PhD, MS - University of Wisconsin, Madison; BA - Macalester College_
 
-Keo is a USDA/ORISE Postdoctoral Fellow for the USDA  SCINet Scientific
-computing initiative. 
+Keo is a USDA/ORISE postdoctoral fellow  with the USDA  SCINet scientific computing initiative and the Sugarcane Coordinator for the Breeding Insight OnRamp project. They hold a Masters in Agroecology and a Ph.D in Plant Breeding and Plant Genetics from the University of Wisconsin - Madison. Keo studies ways to make genetic resources of highly heterozygous crops, like carrot, more useful and accessible to breeders. 
 
 
 # Graduate Students 
@@ -52,7 +51,7 @@ Ashley is a Bioinformatics PhD student with Dr. Amanda Hulse-Kemp and Dr. Susana
 _MS - Clemson University; BS - Michigan State University_
 
 
-Grant is a Bioinformatics Ph.D. studentin the Hulse-Kemp Lab from Florence, South Carolina. His research interests are improving the usability of existing genomic resources and making accessible genome-based tools for upland cotton breeders. He hopes to combine his experience in field-based plant breeding, laboratory research, computational analysis, and genetics to assist breeders in their quest to discover better cotton through conventional breeding with a modern twist. In his free time, Grant likes to enjoy live music and experiment with food. Grant is currently supported by a Cotton Incorporated Fellowship.
+Grant is a Bioinformatics Ph.D. student in the Hulse-Kemp Lab from Florence, South Carolina. His research interests are improving the usability of existing genomic resources and making accessible genome-based tools for upland cotton breeders. He hopes to combine his experience in field-based plant breeding, laboratory research, computational analysis, and genetics to assist breeders in their quest to discover better cotton through conventional breeding with a modern twist. In his free time, Grant likes to enjoy live music and experiment with food. Grant is currently supported by a Cotton Incorporated Fellowship.
 
 
 
