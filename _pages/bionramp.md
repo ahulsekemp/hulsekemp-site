@@ -1,5 +1,5 @@
 ---
-title: ".  "
+title: "  "
 excerpt: ""
 permalink: /bionramp/
 layout: single
