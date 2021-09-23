@@ -31,9 +31,16 @@ Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. i
 ## Emily Delorean, PhD
 Emily is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010930&HistoricalAwards=false) in Amanda’s lab. In collaboration with Will Rutter (USDA-ARS), they are leveraging de novo genome assemblies to study the genetic basis of the root-knot nematode virulence on chili peppers and correspondingly, the genetic resistance of chili peppers against root-knot nematodes. The goal of the work is to help us breed chili pepper varieties with durable genetic resistance to root-knot nematodes. Emily likes teaching, talking about science over beer or cupcakes, and kittens.
 
+![image-left]({{ site.url }}/assets/images/heatherpic.jpeg){: .align-left}
+## Heather Manching
+_PhD - University of Delaware; MS - UNC Wilmington_
+
+Heather is a post-doctoral scholar and Citrus Coordinator for the Breeding Insight OnRamp project. She has a Masters in Biology from The University of North Carolina in Wilmington and a Ph.D. in Plant and Soil Sciences from The University of Delaware. During her doctoral studies, she focused on the problem of maintaining yields despite challenges caused by population growth and climate change by incorporating novel genetic diversity in maize. By evaluating the genomic response to selection for flowering time in a maladapted, tropical population of maize (a potential source of genetic diversity) using approaches she developed for genotyping and assessing haplotype reconstruction in highly heterozygous populations, she contributed to knowledge needed to develop more efficient pre-breeding strategies for maladapted material. She hopes to apply what she has learned in her studies on the genetics in maize, to aid in the improvement of other agricultural commodities. She enjoys spending time with her husband and two sons and reading. 
+
+
 ![image-left]({{ site.url }}/assets/images/Keo-1.jpg){: .align-left}
 ## Keo Corak, PhD
-_PhD, MS - University of Wisconsin, Madison; BA - Macalester College_
+_PhD, MS - University of Wisconsin, Madison_
 
 Keo is a USDA/ORISE postdoctoral fellow  with the USDA  SCINet scientific computing initiative and the Sugarcane Coordinator for the Breeding Insight OnRamp project. They hold a Masters in Agroecology and a Ph.D in Plant Breeding and Plant Genetics from the University of Wisconsin - Madison. Keo studies ways to make genetic resources of highly heterozygous crops, like carrot, more useful and accessible to breeders. 
 
