@@ -21,6 +21,11 @@ I am a computational biologist with the United States Department of Agriculture 
 
 Setting up a research group that is highly collaborative and interdisciplinary allows us to work on large scale problems across many commodities.  
 
+At the USDA ARS I hold a career scientist position as a [Computational Biologist in the Genomics and Bioinformatics Research Unit](https://www.ars.usda.gov/southeast-area/stoneville-ms/genomics-and-bioinformatics-research/people/amanda-hulse-kemp/).
+
+I have a USDA Assistant Professor appointment in the Departments of [Crop and Soil Sciences](https://cals.ncsu.edu/crop-and-soil-sciences/people/amhulse/), [Bioinformatics](https://brc.ncsu.edu/genomics/bioinformatics), and [Genetics](https://genetics.sciences.ncsu.edu/people/amhulse/) at North Carolina State University.
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=1Uc302gAAAAJ&hl=en&oi=ao)
 
 
 # Postdoctoral Associates
