@@ -40,6 +40,7 @@ Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. i
 ![image-left]({{ site.url }}/assets/images/Emily_photo.jpg){: .align-left}
 ## Emily Delorean, PhD
 _PhD - Kansas State University_
+
 Emily is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010930&HistoricalAwards=false) in Amanda’s lab. In collaboration with William Rutter (USDA-ARS), they are leveraging de novo genome assemblies to study the genetic basis of the root-knot nematode virulence on chili peppers and correspondingly, the genetic resistance of chili peppers against root-knot nematodes. The goal of the work is to help us breed chili pepper varieties with durable genetic resistance to root-knot nematodes. Emily likes teaching, talking about science over beer or cupcakes, and kittens.
 
 ![image-left]({{ site.url }}/assets/images/heatherpic.jpeg){: .align-left}
