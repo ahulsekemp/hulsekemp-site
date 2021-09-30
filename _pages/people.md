@@ -15,7 +15,7 @@ header:
 
 ![image-left]({{ site.url }}/assets/images/AHK.jpg){: .align-left}
 ## Amanda M. Hulse-Kemp - PI (SY)
-_PhD - Texas A&M University, Genetics, 2015_
+_PhD - Texas A&M University, Genetics, 2015_  
 _Email: "amanda.hulse-kemp@usda.gov"_
 
 I am a computational biologist with the United States Department of Agriculture – Agricultural Research Service in the Genomics and Bioinformatics Research Unit. I have a broad biology background specializing in genetics and then moved into working in the field of agriculture (primarily crop) systems. I have been involved in many collaborative groups developing the highest quality genomes available at thier time for multiple crops which enabled development of additional tools. Once these reference genomes are available we can initiate a broad range of revolutionary technologies. Helping breeding programs integrate the next best technology to speed up the process to identify important genes and make better products for stakeholdres and consumers is a passion.  
