@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: 'tagline goes here'
+excerpt: 'Advancing agriculture and plant breeding through informatics integration'
 header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/images/epi-wide.jpg
@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/free-to-use-sounds-kOuCX7fh50U-unsplash.jpg
     alt: "Join the Lab"
     title: "Join the Lab"
-    excerpt: "We have no open positions at this time but please contact us if you are interested in future positions."
+    excerpt: "We always have multiple positions available in the unit, contact us if you are interested in joining the lab."
     url: "/jobs/"
     btn_label: "Learn More"
     btn_class: "btn--info"
