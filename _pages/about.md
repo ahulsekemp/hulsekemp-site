@@ -11,7 +11,7 @@ header:
 
 _The Hulse-Kemp Lab is part of the USDA ARS [Genomics and Bioinformatics Research Unit](https://www.ars.usda.gov/southeast-area/stoneville-ms/genomics-and-bioinformatics-research/people/amanda-hulse-kemp//), we are located in the [Department of Crop and Soil Sciences](https://cals.ncsu.edu/crop-and-soil-sciences/), [North Carolina State University](http://www.ncsu.edu/) in Raleigh, North Carolina._
 
-_Our Research_
+### _Our Research_
 
 **Genomics, Breeding, Computational Biology, and Bioinformatics** 
 
