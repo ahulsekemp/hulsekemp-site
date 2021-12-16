@@ -8,6 +8,7 @@ tags:
  - Comparative Genomics
  - Data integration
  - Software tool development
+ - open
 header:
   teaser: "/assets/images/NCSU-grass-state-scaled.jpg"
 ---
