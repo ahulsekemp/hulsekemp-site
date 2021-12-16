@@ -24,7 +24,7 @@ The Postdoctoral Research Scholar will focus on integrating exceptional quality 
 <p>The position is supervised by <a href='https://cals.ncsu.edu/crop-and-soil-sciences/people/srmilla/'>Dr. Susana Milla-Lewis</a> at North Carolina State University and funded through a collaborative agreement with the USDA, Agricultural Research Service. The postdoc will work closely with Dr. Amanda Hulse-Kemp at the USDA on this project. Pay for this position is commesurate with experience plus benefits.</p>
 <h1>Desired Skills</h1>
 <p>A successful applicant will likely have experience in bioinformatics, biology, botany, ecology, computer science, statistics, or similar field. The candidate should be comfortable using Python or R and have some experience with version control, statistics, and plant breeding concepts. We recognize that each person has a unique mix of experience, individual strengths, and experiences and we encourage any applicant with a strong record of research productivity and experience to apply.</p>
-<p><strong>Interested? <a href='mailto:amanda.hulse-kemp@usda.gov?Subject=Turfgrass-postdoc-position'>Email me today</a></strong>  The official position link can be found here: <a href='https://jobs.ncsu.edu/postings/154476'></p>",
+<p><strong>Interested? <a href='mailto:amanda.hulse-kemp@usda.gov?Subject=Turfgrass-postdoc-position'>Email me today</a></strong>  The official position link can be found <a href='https://jobs.ncsu.edu/postings/154476'>here:</a></p>",
   "hiringOrganization" : {
     "@type": "Organization",
     "name": "North Carolina State University",
