@@ -83,9 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Keo Corak, PhD"
-  avatar           : "assets/images/Keo-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  name             : "Amanda M. Hulse-Kemp, PhD"
+  avatar           : "assets/images/AHK.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computational biologist and trained plant breeder
+                        using tools and software to integrate technology
+                        into plant breeding programs."
 
   location         : "Raleigh, NC"
   email            :
@@ -97,13 +99,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"keocorak"
+  github           : "ahulsekemp"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #adam-rivers-65007854 # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : amanda-hulse-kemp-39ba8463 # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
