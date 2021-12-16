@@ -77,4 +77,4 @@ The position is supervised by [Dr. Susana Milla-Lewis](https://cals.ncsu.edu/cro
 
 A successful applicant will likely have experience in bioinformatics, biology, botany, ecology, computer science, statistics, or similar field. The candidate should be comfortable using Python or R and have some experience with version control, statistics, and plant breeding concepts. We recognize that each person has a unique mix of experience, individual strengths, and experiences and we encourage any applicant with a strong record of research productivity and experience to apply.
 
-__Interested? [Email me today](mailto:amanda.hulse-kemp@usda.gov?Subject=Turfgrass-postdoc-position)__  The official position link is avialable[here](https://jobs.ncsu.edu/postings/154476).
+__Interested? [Email me today](mailto:amanda.hulse-kemp@usda.gov?Subject=Turfgrass-postdoc-position)__  The official position link is available [here](https://jobs.ncsu.edu/postings/154476).
