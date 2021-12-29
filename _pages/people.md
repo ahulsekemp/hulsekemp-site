@@ -31,12 +31,6 @@ I have a USDA Assistant Professor appointment in the Departments of [Crop and So
 
 # Postdoctoral Associates
 
-![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
-## Daniel Restrepo-Montoya, PhD
-_PhD - North Dakota State University; MEng, BS - Universidad Nacional de Colombia - Bogotá, Col_
-
-Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. in Genomics and Bioinformatics. A former fellow of the Fulbright program, he has knowledge and expertise in the analysis and handling of biological data through the application of mathematical and informatics tools and experience working with research groups that specialize in different biological problems
-
 ![image-left]({{ site.url }}/assets/images/Emily_photo.jpg){: .align-left}
 ## Emily Delorean, PhD
 _PhD - Kansas State University_
@@ -64,6 +58,9 @@ Keo is a USDA/ORISE postdoctoral fellow  with the USDA  SCINet scientific comput
 
 Ashley is a Bioinformatics PhD student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
 
+## Cassie Newman
+
+Cassie is a Crop Science PhD student with Dr. Amanda Hulse-Kemp and Dr. Jeff Dunne. Her primary area of research is integrating genomics era tools into the peanut breeding program.
 
 ![image-left]({{ site.url }}/assets/images/Grant-Billings.jpg){: .align-left}
 ## Grant Billings, MS
