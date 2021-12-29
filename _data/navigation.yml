@@ -8,6 +8,8 @@ main:
     url: /bionramp/
   - title: "Jobs"
     url: /jobs/
+  - title: "Hall of Fame"
+    url: /hall_of_fame/
   - title: "Projects"
     url: /projects/
   - title: "Software"
