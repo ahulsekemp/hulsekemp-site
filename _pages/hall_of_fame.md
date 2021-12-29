@@ -15,6 +15,8 @@ header:
 # Hulse-Kemp Hall of Fame
 Former stuents and postdocs, their projects and last known whereabouts
 
+<br>
+
 # Class of 2021
 
 ![image-left]({{ site.url }}/assets/images/daniel's_photo.png){: .align-left}
@@ -29,6 +31,7 @@ Daniel is currently a Max Planck Tandem Group Leader in Colombia at the Universi
 
 Xingbo is currently an Assistant Professor in Ornamental Breeding at the University of Florida.
 
+<br> 
 
 # Class of 2018
 
