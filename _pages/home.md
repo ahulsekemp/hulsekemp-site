@@ -6,7 +6,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   overlay_image: /assets/images/pattern-blue.svg
 feature_row:
-  - image_path: /assets/images/brandon-mowinkel-213912.jpg
+  - image_path: /assets/images/gianluca-primon-168748-unsplash.jpg
     alt: "amplicon"
     title: "Current projects"
     excerpt: "Currently funded research projects"
