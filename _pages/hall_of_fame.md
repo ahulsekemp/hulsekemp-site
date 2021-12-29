@@ -37,4 +37,13 @@ Xingbo is currently an Assistant Professor in Ornamental Breeding at the Univers
 
 ## Francisco Gomez, PhD
 
-Francisco is currently an Assistant Professor in Dry Bean Breeding at [Michigan State University](https://www.canr.msu.edu/people/francisco-gomez). 
+Francisco is currently an Assistant Professor in Dry Bean Breeding at [Michigan State University](https://www.canr.msu.edu/people/francisco-gomez).
+
+<br>
+
+# Former Lab Visitors
+## Sajid Majeed, PhD
+Sajid visited the lab in 2019-2020 and is currently working in Pakistan.
+
+## Richard Estrada
+Richard visited the lab in 2020 and is currently finishing his studies in Peru.
