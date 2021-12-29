@@ -4,9 +4,9 @@ permalink: /
 excerpt: 'Advancing agriculture and plant breeding through informatics integration'
 header:
   overlay_filter: rgba(0, 0, 0, 0.5)
-  overlay_image: /assets/images/epi-wide.jpg
+  overlay_image: /assets/images/pattern-blue.svg
 feature_row:
-  - image_path: /assets/images/smithsonian_chicken.jpg
+  - image_path: /assets/images/brandon-mowinkel-213912.jpg
     alt: "amplicon"
     title: "Current projects"
     excerpt: "Currently funded research projects"
