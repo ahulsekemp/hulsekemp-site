@@ -13,7 +13,7 @@ header:
 ---
 
 # Hulse-Kemp Hall of Fame
-Former stuents and postdocs, their projects and last known whereabouts
+_Former stuents and postdocs, their projects and last known whereabouts_
 
 <br>
 
