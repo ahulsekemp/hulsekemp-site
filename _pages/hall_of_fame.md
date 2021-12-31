@@ -28,6 +28,7 @@ Daniel is a biologist with a master’s degree in Computer Science and a Ph.D. i
 Daniel is currently a Max Planck Tandem Group Leader in Colombia at the Universidad Nacional de Colombia.
 
 ## Xingbo Wu, PhD
+_PhD - Tennessee State University; MS - Southwest University_
 
 Xingbo is currently an Assistant Professor in Ornamental Breeding at the University of Florida.
 
