@@ -58,7 +58,7 @@ Keo is a USDA/ORISE postdoctoral fellow  with the USDA  SCINet scientific comput
 
 Ashley is a Bioinformatics PhD student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
 
-![image-left]({{ site.url }}/assets/images/CNewman21.jpg){: .align-left}
+![image-left]({{ site.url }}/assets/images/CNewman21_small.jpg){: .align-left}
 ## Cassondra (Cassie) Newman
 
 Cassondra is a Crop Science Ph.D. student, and is co-advised by Dr. Amanda Hulse-Kemp and Dr. Jeff Dunne. Her primary area of research is integrating genomics era tools into the North Carolina State University Virginia-Type peanut breeding program. 
