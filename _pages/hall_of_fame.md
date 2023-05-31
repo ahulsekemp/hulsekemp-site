@@ -18,7 +18,7 @@ _Former lab members, their projects and last known whereabouts_
 <br>
 # Class of 2021
 
-![image-left]({{ site.url }}/assets/images/MegPartridgeheadshot.jpg){: .align-left}{: height="250"}
+![image-left]({{ site.url }}/assets/images/MegPartridgeheadshot2.png){: .align-left}
 ## Meg Partridge, B.S.
 
 Meg worked in the Hulse-Kemp Lab during her senior year at UNC Chapel Hill, assisting in sugarcane genome analysis. After graduating in May 2023 with a Quantitative Biology degree, she accepted a job on the Bioinformatics team of the Texas Public Health Dept. in Austin, TX.
