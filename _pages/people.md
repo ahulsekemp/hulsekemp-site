@@ -29,6 +29,15 @@ I have a USDA Assistant Professor appointment in the Departments of [Crop and So
 [Google Scholar Profile](https://scholar.google.com/citations?user=1Uc302gAAAAJ&hl=en&oi=ao)
 
 
+# Research Associates
+
+![image-left]({{ site.url }}/assets/images/heatherpic.jpeg){: .align-left}
+## Heather Manching, PhD
+_PhD - University of Delaware; MS - UNC Wilmington_
+
+Heather moved into a Research Associate position in 2023 and is a leading member of the Breeding Insight OnRamp project. She continues to serve as the Citrus Coordinator for Breeding Insight OnRamp. She has a Masters in Biology from The University of North Carolina in Wilmington and a Ph.D. in Plant and Soil Sciences from The University of Delaware. During her doctoral studies, she focused on the problem of maintaining yields despite challenges caused by population growth and climate change by incorporating novel genetic diversity in maize. By evaluating the genomic response to selection for flowering time in a maladapted, tropical population of maize (a potential source of genetic diversity) using approaches she developed for genotyping and assessing haplotype reconstruction in highly heterozygous populations, she contributed to knowledge needed to develop more efficient pre-breeding strategies for maladapted material. She hopes to apply what she has learned in her studies on the genetics in maize, to aid in the improvement of other agricultural commodities. She enjoys spending time with her husband and two sons and reading. 
+
+
 # Postdoctoral Associates
 
 ![image-left]({{ site.url }}/assets/images/Emily_photo.jpg){: .align-left}
@@ -36,13 +45,6 @@ I have a USDA Assistant Professor appointment in the Departments of [Crop and So
 _PhD - Kansas State University_
 
 Emily is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010930&HistoricalAwards=false) in Amanda’s lab. In collaboration with William Rutter (USDA-ARS), they are leveraging de novo genome assemblies to study the genetic basis of the root-knot nematode virulence on chili peppers and correspondingly, the genetic resistance of chili peppers against root-knot nematodes. The goal of the work is to help us breed chili pepper varieties with durable genetic resistance to root-knot nematodes. Emily likes teaching, talking about science over beer or cupcakes, and kittens.
-
-![image-left]({{ site.url }}/assets/images/heatherpic.jpeg){: .align-left}
-## Heather Manching, PhD
-_PhD - University of Delaware; MS - UNC Wilmington_
-
-Heather is a postdoctoral scholar and Citrus Coordinator for the Breeding Insight OnRamp project. She has a Masters in Biology from The University of North Carolina in Wilmington and a Ph.D. in Plant and Soil Sciences from The University of Delaware. During her doctoral studies, she focused on the problem of maintaining yields despite challenges caused by population growth and climate change by incorporating novel genetic diversity in maize. By evaluating the genomic response to selection for flowering time in a maladapted, tropical population of maize (a potential source of genetic diversity) using approaches she developed for genotyping and assessing haplotype reconstruction in highly heterozygous populations, she contributed to knowledge needed to develop more efficient pre-breeding strategies for maladapted material. She hopes to apply what she has learned in her studies on the genetics in maize, to aid in the improvement of other agricultural commodities. She enjoys spending time with her husband and two sons and reading. 
-
 
 ![image-left]({{ site.url }}/assets/images/Keo-1.jpg){: .align-left}
 ## Keo Corak, PhD
@@ -71,7 +73,19 @@ _MS - Clemson University; BS - Michigan State University_
 
 Grant is a Bioinformatics Ph.D. student in the Hulse-Kemp Lab from Florence, South Carolina. His research interests are improving the usability of existing genomic resources and making accessible genome-based tools for upland cotton breeders. He hopes to combine his experience in field-based plant breeding, laboratory research, computational analysis, and genetics to assist breeders in their quest to discover better cotton through conventional breeding with a modern twist. In his free time, Grant likes to enjoy live music and experiment with food. Grant is currently supported by a Cotton Incorporated Fellowship.
 
+## Jordan James
+
+## Jonathan Zirkel
+
+## Laide Rasaki
 
 
+# Lab Interns
+
+## Mitanshu Reshamwala
+
+## Prasad Kamath
+
+## Akshat Savla
 
 
