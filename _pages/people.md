@@ -86,9 +86,10 @@ Grant is a Bioinformatics Ph.D. student in the Hulse-Kemp Lab from Florence, Sou
 
 ## Prasad Kamath
 
-Prasad is a Masters student in Computer Science at NC State, and has previously worked in android development and backend web development. He is working at the Hulse-Kemp Lab primarily on Fieldbook app development, integrating multiple data input sources to reduce manual data entry needs. Apart from this, he has also improved existing functionalities in the Fieldbook app, addressed bugs and issues to enhance the overall user experience.
+Prasad is a Masters student in Computer Science at NC State University, and has previously worked in android development and backend web development. He is working at the Hulse-Kemp Lab primarily on Field Book app development, integrating multiple data input sources to reduce manual data entry needs. Apart from this, he has also improved existing functionalities in the Fieldbook app, addressed bugs and issues to enhance the overall user experience.
 
 
 ## Akshat Savla
 
+Akshat is a second-year Masters of Computer Science student at NC State University. His primary interests and prior experience are in backend and API development. He began working with the Hulse-Kemp Lab to develop a BrAPI-compliant backend for transferring audio recordings from the Field Book app. He has lately delved into Android development and is working on fixing issues, bugs, and improving existing features of the Field Book app.
 
