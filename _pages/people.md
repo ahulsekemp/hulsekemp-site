@@ -58,7 +58,7 @@ Keo is a USDA/ORISE postdoctoral fellow  with the USDA  SCINet scientific comput
 ![image-left]({{ site.url }}/assets/images/Ashley Headshot.jpg){: .align-left}
 ## Ashley Schoonmaker
 
-Ashley is a Bioinformatics PhD student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
+Ashley is a Bioinformatics Ph.D. student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
 
 ![image-left]({{ site.url }}/assets/images/CNewman21_small2.jpg){: .align-left}
 ## Cassondra (Cassie) Newman
@@ -75,14 +75,21 @@ Grant is a Bioinformatics Ph.D. student in the Hulse-Kemp Lab from Florence, Sou
 
 ## Jordan James
 
+Jordan is a Ph.D. student at the University of Texas at Arlington on a collaborative project with the Hulse-Kemp lab. His research focuses on incorporating Machine Learning and Artificial Intelligence approaches to solve relevant plant breeding programs utilizing multiple technology gathering data streams. 
+
 ## Jonathan Zirkel
+
+Jonathan is a Genetics and Genomics PhD student Co advised by Dr. Hulse-Kemp and Dr. Doherty. His primary research focus is on identifying and characterizing unknown function genes of agricultural relevance in cotton. He aims to accomplish this with a combination of bioinformatic techniques and molecular approaches.
 
 ## Laide Rasaki
 
+Laide is a Ph.D. student in the Crop & Soil Sciences Department of North Carolina State University, and member of the 2023-24 class of the Genetics and Genomics Academy. His research is focused on the development and integration of genetic tools and computational methods into plant breeding systems. The ultimate aim of his work is the application of genomics to accelerate crop improvement in response to the ever-changing global climate conditions.
 
 # Lab Interns
 
 ## Mitanshu Reshamwala
+
+Mitanshu is a Master's Student, majoring in Computer Science at NC State University. My primary fields are Artificial Intelligence and Software Engineering. My 2 current projects at Hulse-Kemp Lab are: 1) Image-based Phenotyping(Fruit-Quality): This project entails extracting phenotypes from images of samples of crops or plants, and 2) Digital Phenotyping: This project aims to help extract phenotypes a breeder collecting data in the field using application like Fieldbook and upload the extracted data to Breedbase.
 
 ## Prasad Kamath
 
