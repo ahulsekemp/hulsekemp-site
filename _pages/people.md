@@ -55,18 +55,6 @@ Keo is a USDA/ORISE postdoctoral fellow  with the USDA  SCINet scientific comput
 
 # Graduate Students 
 
-![image-left]({{ site.url }}/assets/images/Ashley Headshot.jpg){: .align-left}
-## Ashley Schoonmaker
-
-Ashley is a Bioinformatics Ph.D. student with Dr. Amanda Hulse-Kemp and Dr. Susana Milla-Lewis at North Carolina State University.  Her primary area of research lies in the development of genetic tools for crop breeders and QTL analysis for resistance to diseases, which includes projects in cotton, St. Augustinegrasses and bermudagrasses.  
-
-![image-left]({{ site.url }}/assets/images/CNewman21_small2.jpg){: .align-left}
-## Cassondra (Cassie) Newman
-
-Cassondra is a Crop Science Ph.D. student, and is co-advised by Dr. Amanda Hulse-Kemp and Dr. Jeff Dunne. Her primary area of research is integrating genomics era tools into the North Carolina State University Virginia-Type peanut breeding program. 
-To demonstrate the utility of genomic tools in peanut breeding, she is generating high-throughput genomic information and UAV phenotype information on a population of diverse peanut lines in order to better understand genetic resistance to the leaf spot foliar disease.
-
-
 ![image-left]({{ site.url }}/assets/images/Grant-Billings.jpg){: .align-left}
 ## Grant Billings, MS
 _MS - Clemson University; BS - Michigan State University_
