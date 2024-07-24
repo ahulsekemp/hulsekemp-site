@@ -12,9 +12,11 @@ header:
 
 ---
 
-Announcing Breeding Insight OnRamp --  A new USDA-ARS initiative that gets breeding teams ready to join [Breeding Insight](https://breedinginsight.org/)!
+Breeding Insight OnRamp --  Is a USDA-ARS initiative to jump start the process of integrating advanced breeding technologies into breeding programs.
 
-BI OnRamp is a readiness program that helps organize breeders, create common traits and methods, and curate historical data so that when programs enter Breeding Insight, they are prepared to benefit from the services immediately.  A 1-to-2-year commitment is needed, plus commodity financial support.
+BI OnRamp is a partner program with the Cornell University [Breeding Insight](https://breedinginsight.org/) organization.
+
+BI OnRamp is supported by stakeholders to form 1:1 partnerships to initiate breeding databases, integrate historical databases, begin to utilize digital phenotyping tools and much more!
 
 [Contact Us!](https://forms.gle/MYX6GLBiABgzwYEj6)
 
